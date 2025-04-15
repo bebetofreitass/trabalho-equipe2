@@ -1,5 +1,2 @@
 # trabalho-equipe2
-Bugfix removendo bugs
-removing aditional bugs
-
-escrevendo outras mensagens
+#release v1.0.0
